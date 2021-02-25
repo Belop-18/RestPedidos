@@ -6,7 +6,7 @@ use App\detallePedido;
 use App\Pedido;
 use Illuminate\Http\Request;
 
-class apiRestPedido extends Controller
+class apiRestPedidoController extends Controller
 {
 
     /**
